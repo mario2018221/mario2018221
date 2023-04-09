@@ -2,6 +2,4 @@
 
 I am a 13 year old coder who is learning Haxeflixel.
 
-To learn more information about me, check out my [website](https://mario2018221.carrd.co).
-
-But for a short brief summary, I like coding, and playing games, and making websites for friends.
+You can find my socials on [linktree!](https://linktr.ee/mario2018221)
