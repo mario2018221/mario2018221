@@ -5,7 +5,7 @@ I am a 13 year old coder who is learning Haxeflixel, since I'm very interested i
 ## Skills
 
 * Artist
-* Coder - (I'm still learning how to code Haxeflixel, however, I know parts of Haxeflixel, which is why this is here.)
+* Coder
 
 ## You can find me on...
 
